@@ -7,7 +7,7 @@
 
 A machine learning project that predicts sales revenue based on advertising spend across **TV**, **Radio**, and **Newspaper** channels. Built with interpretable Linear Regression and deployed as a sleek Streamlit web application.
 
-![App Screenshot](notebooks/figures/app_preview.png)
+![App Screenshot](notebooks/figures/app_preview.PNG)
 
 ---
 

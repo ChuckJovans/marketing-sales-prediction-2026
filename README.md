@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 A machine learning project that predicts sales revenue based on advertising spend across **TV**, **Radio**, and **Newspaper** channels. Built with interpretable Linear Regression and deployed as a sleek Streamlit web application.
 
@@ -50,7 +50,7 @@ The app will open at `http://localhost:8501`
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric | Value | Description |
 |--------|-------|-------------|
@@ -61,7 +61,7 @@ The app will open at `http://localhost:8501`
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### Channel Effectiveness
 
@@ -79,7 +79,7 @@ Sales = 3.98 + 0.041×TV + 0.192×Radio - 0.012×Newspaper
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 marketing-sales-prediction/
@@ -102,7 +102,7 @@ marketing-sales-prediction/
 
 ---
 
-## 📓 Notebook Highlights
+## Notebook Highlights
 
 The Jupyter notebook (`notebooks/01_eda_and_modeling.ipynb`) includes:
 
@@ -128,7 +128,7 @@ The Jupyter notebook (`notebooks/01_eda_and_modeling.ipynb`) includes:
 
 ---
 
-## 🖥️ Streamlit App Features
+## Streamlit App Features
 
 - **Interactive Budget Sliders** - Adjust TV, Radio, Newspaper spend
 - **Real-time Predictions** - See sales forecast instantly
@@ -139,7 +139,7 @@ The Jupyter notebook (`notebooks/01_eda_and_modeling.ipynb`) includes:
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 python -m pytest tests/ -v
@@ -147,7 +147,7 @@ python -m pytest tests/ -v
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Data Processing**: pandas, numpy
 - **Machine Learning**: scikit-learn
@@ -157,7 +157,7 @@ python -m pytest tests/ -v
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - [ ] Add seasonality features (monthly/quarterly trends)
 - [ ] Implement ensemble model for improved accuracy
@@ -176,16 +176,5 @@ python -m pytest tests/ -v
 - 🐙 GitHub: [@ChuckJovans](https://github.com/ChuckJovans)
 - 📧 Email: chuckjovans@gmail.com
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset inspired by advertising industry benchmarks
-- Built as part of my Data Science portfolio
-- Thanks to the open-source Python community

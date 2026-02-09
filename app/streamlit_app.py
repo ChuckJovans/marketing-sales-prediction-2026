@@ -499,7 +499,7 @@ with tab3:
     
     st.markdown("""
     <div class="info-box">
-        <strong>Model Equation:</strong><br>
+        <strong>Model Equation: </strong><br>
         <code>Sales = 3.98 + 0.041×TV + 0.192×Radio - 0.012×Newspaper</code>
     </div>
     """, unsafe_allow_html=True)

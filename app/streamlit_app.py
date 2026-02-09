@@ -513,6 +513,5 @@ st.markdown("""
 <div class="footer">
     Built by <a href="https://charlesjovans.netlify.app" target="_blank">Charles Jovans Galiwango</a> · 
     <a href="https://github.com/ChuckJovans" target="_blank">GitHub</a> · 
-    <a href="https://linkedin.com/in/charles-jovans-galiwango-2a1194115" target="_blank">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
